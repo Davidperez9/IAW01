@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carta on RESTAURANTE PIRLO</title>
+    <link>http://localhost:1313/carta/</link>
+    <description>Recent content in Carta on RESTAURANTE PIRLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 24 Sep 2020 11:44:16 +0200</lastBuildDate><atom:link href="http://localhost:1313/carta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrantes</title>
+      <link>http://localhost:1313/carta/entrants/</link>
+      <pubDate>Thu, 24 Sep 2020 11:44:16 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/entrants/</guid>
+      <description>Una gran variedad de entrantes italianos de la mano de nuestro cheff Amadeo, pasta fresca, bruschetta entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Arroces</title>
+      <link>http://localhost:1313/carta/arrosos/</link>
+      <pubDate>Thu, 24 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/arrosos/</guid>
+      <description>Los mejores risottos de la ciudad traidos desde Italia con nuestros mejores arroces.</description>
+    </item>
+    
+    <item>
+      <title>Postres</title>
+      <link>http://localhost:1313/carta/postres/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/postres/</guid>
+      <description>Prueba nuestra gran variedad de postres artesanales.</description>
+    </item>
+    
+    <item>
+      <title>Pescados</title>
+      <link>http://localhost:1313/carta/peixos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:21 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/peixos/</guid>
+      <description>Disfruta de un buen pescado con una gran variedad de pescados.</description>
+    </item>
+    
+    <item>
+      <title>Carnes</title>
+      <link>http://localhost:1313/carta/carns/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/carns/</guid>
+      <description>Nuestra gran selección en las mejores carnes traidas desde Italia.</description>
+    </item>
+    
+  </channel>
+</rss>

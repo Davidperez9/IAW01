@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reservas on RESTAURANTE PIRLO</title>
+    <link>http://localhost:1313/reservas/</link>
+    <description>Recent content in Reservas on RESTAURANTE PIRLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 24 Sep 2020 11:43:55 +0200</lastBuildDate><atom:link href="http://localhost:1313/reservas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reservas</title>
+      <link>http://localhost:1313/reservas/reserva/</link>
+      <pubDate>Thu, 24 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/reservas/reserva/</guid>
+      <description>Para reservas llamad al 96 287 65 435</description>
+    </item>
+    
+  </channel>
+</rss>

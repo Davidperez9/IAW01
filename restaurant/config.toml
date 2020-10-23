@@ -1,0 +1,23 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-ES"
+title = "RESTAURANTE PIRLO"
+theme = "ananke"
+
+[menu]
+
+    [[menu.main]]
+      name = "Carta"
+      url = "/carta/"
+      weight = -110
+      
+    [[menu.main]]
+      name = "Donde estamos"
+      url = "https://g.page/pirlobar?share"
+      weight = -110
+      
+     [[menu.main]]
+      name = "Reservas"
+      url = "/Reservas/"
+      weight = -110
+      
+    

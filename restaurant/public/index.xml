@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESTAURANTE PIRLO</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on RESTAURANTE PIRLO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 22 Sep 2020 11:46:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrantes</title>
+      <link>http://localhost:1313/carta/entrants/</link>
+      <pubDate>Thu, 24 Sep 2020 11:44:16 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/entrants/</guid>
+      <description>Una gran variedad de entrantes italianos de la mano de nuestro cheff Amadeo, pasta fresca, bruschetta entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Arroces</title>
+      <link>http://localhost:1313/carta/arrosos/</link>
+      <pubDate>Thu, 24 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/arrosos/</guid>
+      <description>Los mejores risottos de la ciudad traidos desde Italia con nuestros mejores arroces.</description>
+    </item>
+    
+    <item>
+      <title>Reservas</title>
+      <link>http://localhost:1313/reservas/reserva/</link>
+      <pubDate>Thu, 24 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/reservas/reserva/</guid>
+      <description>Para reservas llamad al 96 287 65 435</description>
+    </item>
+    
+    <item>
+      <title>Ubicacion</title>
+      <link>http://localhost:1313/ubicacio/</link>
+      <pubDate>Tue, 22 Sep 2020 11:46:20 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ubicacio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postres</title>
+      <link>http://localhost:1313/carta/postres/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/postres/</guid>
+      <description>Prueba nuestra gran variedad de postres artesanales.</description>
+    </item>
+    
+    <item>
+      <title>Pescados</title>
+      <link>http://localhost:1313/carta/peixos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:21 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/peixos/</guid>
+      <description>Disfruta de un buen pescado con una gran variedad de pescados.</description>
+    </item>
+    
+    <item>
+      <title>Carnes</title>
+      <link>http://localhost:1313/carta/carns/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:11 +0200</pubDate>
+      
+      <guid>http://localhost:1313/carta/carns/</guid>
+      <description>Nuestra gran selección en las mejores carnes traidas desde Italia.</description>
+    </item>
+    
+    <item>
+      <title>Sobre nosotros</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 22 Sep 2020 11:43:41 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>El mejor restaurante de comida italiana de tu ciudad. Tenemos una gran variedad de comida traida desde Italia, las mejores pizzas,pasta,risottos.
+&amp;mdash;Horario&amp;mdash;
+De MARTES a JUEVES
+Comidas 13:00 a 16:00
+Cenas 20:00 a 23:30
+VIERNES y SÁBADOS
+Comidas 13:00 a 16:00
+Cenas 20:00 a 24:00
+DOMINGOS
+Comidas 13:00 a 16:00
+Cenas 20:00 a 23:30
+(LUNES CERRADO POR DESCANSO)
+ </description>
+    </item>
+    
+  </channel>
+</rss>
